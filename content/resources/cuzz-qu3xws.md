@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/81ccd85c0c22188d2a084f94997b6d8c_cUzZ-qu3xws.srt
+file: /media/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/81ccd85c0c22188d2a084f94997b6d8c_cUzZ-qu3xws.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 81ccd85c-0c22-188d-2a08-4f94997b6d8c
