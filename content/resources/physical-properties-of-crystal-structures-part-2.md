@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Physical Properties of Crystal Structures - Part 2
 uid: 6c9c6b49-b1a6-f80c-75f3-353a22d5a47f
 video_files:

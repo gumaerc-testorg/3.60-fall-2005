@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5c93f2b1-5536-7d91-878e-b2224ece1c30
 resourcetype: Document
 title: crystal10.pdf
 uid: 6b6b1420-859e-2bf7-6de8-d19b3d25b934

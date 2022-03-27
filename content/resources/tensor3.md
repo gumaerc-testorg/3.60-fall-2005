@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5c93f2b1-5536-7d91-878e-b2224ece1c30
 resourcetype: Document
 title: tensor3.pdf
 uid: a3fd6879-6373-e613-4731-6c2aa2642f19

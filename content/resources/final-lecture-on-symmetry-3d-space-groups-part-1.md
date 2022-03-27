@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Final Lecture on Symmetry: 3D Space Groups - Part 1'
 uid: eb253735-023a-4658-6c0a-ab75aca44648
 video_files:

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5c93f2b1-5536-7d91-878e-b2224ece1c30
 resourcetype: Document
 title: tensor7.pdf
 uid: 12617908-4c90-adb0-2e9b-f86dd83d5c08

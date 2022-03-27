@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5c93f2b1-5536-7d91-878e-b2224ece1c30
 resourcetype: Document
 title: crystal8.pdf
 uid: 3613f81d-9ad1-b2ff-16b0-7bb798219d3b

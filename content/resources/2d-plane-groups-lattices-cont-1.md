@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 2D Plane Groups, Lattices (cont.) - Part 2
 uid: e529e4d0-ad09-0340-a6ae-3b58eace1f24
 video_files:
