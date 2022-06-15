@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2750'
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -12,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1'
 title: Introduction to Crystallography - Part 2
 uid: bd35b191-cf1d-77d5-9540-aa190932ba90
 video_files:

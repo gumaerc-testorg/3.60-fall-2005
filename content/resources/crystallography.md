@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains comprehensive notes for crystallography.
-file: /media/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/d075b9dd36eafe8ca108a99caa70f097_crystallography.pdf
+file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/d075b9dd36eafe8ca108a99caa70f097_crystallography.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -13,3 +13,5 @@ resourcetype: Document
 title: crystallography.pdf
 uid: d075b9dd-36ea-fe8c-a108-a99caa70f097
 ---
+This file contains comprehensive notes for crystallography.
+
