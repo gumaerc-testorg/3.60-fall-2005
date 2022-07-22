@@ -6,6 +6,7 @@ file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tensor10.pdf
 uid: 109539ef-07b9-ec28-23aa-46f9abc29905
 ---
 This file contains reading notes for 2nd Rank Tensors and the Representation Quadric.
-

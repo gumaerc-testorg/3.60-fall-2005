@@ -6,6 +6,7 @@ file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tensor6.pdf
 uid: acf27f16-4b7a-315e-1320-d808b27a96d6
 ---
 This file contains notes for the topic: Symmetry Restrictions for 4th Rank Property Tensors.
-

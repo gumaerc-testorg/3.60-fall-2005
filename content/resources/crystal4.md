@@ -6,6 +6,7 @@ file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: crystal4.pdf
 uid: 88728836-c5f9-fc0a-ac81-9a7ad1a0a904
 ---
 This file contains notes for the topic: Derivation of the 32 Crystallographic Point Groups, or Crystal Classes.
-

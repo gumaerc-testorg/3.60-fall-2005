@@ -6,6 +6,7 @@ file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tensor1.pdf
 uid: e4fff4f5-5b8d-3818-32d1-10342dcccde7
 ---
 This file contains reading notes for the topic: Propagation of Waves Along One-Dimensional Crystal with Two Kinds of Atoms.
-

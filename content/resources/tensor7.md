@@ -5,6 +5,7 @@ file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tensor7.pdf
 uid: 12617908-4c90-adb0-2e9b-f86dd83d5c08
 ---
 This file contains notes for the topic: Some Basic Relations in Electromagnetism.
-

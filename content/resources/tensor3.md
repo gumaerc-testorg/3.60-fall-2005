@@ -6,6 +6,7 @@ file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tensor3.pdf
 uid: a3fd6879-6373-e613-4731-6c2aa2642f19
 ---
 This file contains notes for the topic: Propagation of Elastic Waves in Crystals.
-

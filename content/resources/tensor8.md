@@ -5,6 +5,7 @@ file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tensor8.pdf
 uid: 7833362e-b0e1-65d8-b1c5-a0a80fa27c61
 ---
 This file contains notes for stress and strain tensors.
-

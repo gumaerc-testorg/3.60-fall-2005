@@ -6,6 +6,7 @@ file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tensor5.pdf
 uid: cdd0bd8c-54fd-74e2-12f4-5427e640528c
 ---
 This file contains notes for the topic: Conventions for Relabeling Stress, Strain, Stiffness and Compliance in Matrix Notation.
-

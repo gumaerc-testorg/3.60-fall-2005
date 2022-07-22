@@ -5,6 +5,7 @@ file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: crystal1.pdf
 uid: 8ac9c9c2-64d6-a0c4-bc46-7216f198ed66
 ---
 This file contains notes for the topic: Principles of Plane Group Derivation.
-

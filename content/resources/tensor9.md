@@ -5,6 +5,7 @@ file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tensor9.pdf
 uid: 3d2dbef6-3ca0-ff61-52da-0b481ab45297
 ---
 This file contains solutions to 3rd order equations.
-

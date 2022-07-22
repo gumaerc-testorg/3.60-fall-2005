@@ -6,6 +6,7 @@ file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: crystal9.pdf
 uid: ecfcd431-2189-04cb-d536-f22f775c3789
 ---
 This file contains notes for the topic: Distribution of Lattice Types and Point Groups Among the Crystal Systems.
-

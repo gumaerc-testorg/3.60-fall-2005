@@ -6,6 +6,7 @@ file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: crystal6.pdf
 uid: f788c990-c650-70e5-1743-0604e5b0f983
 ---
 This file contains notes for the topic: Summary of 2-Dimensional Plane Groups in Preparation for Addition of a Stacking Vector to Produce a Space Lattice.
-

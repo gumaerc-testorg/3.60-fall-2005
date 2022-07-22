@@ -6,6 +6,7 @@ file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: crystal2.pdf
 uid: 6a07fd72-095d-549d-dbae-5d9cffc34c1e
 ---
 This file contains notes for the topic: Distribution of Lattice Types, Point Groups and Plane Groups Among the Two-Dimensional Crystal Systems.
-

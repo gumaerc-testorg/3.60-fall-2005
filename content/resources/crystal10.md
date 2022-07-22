@@ -6,6 +6,7 @@ file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: crystal10.pdf
 uid: 6b6b1420-859e-2bf7-6de8-d19b3d25b934
 ---
 This file contains notes for the topic: Symbols for the Locus of a Glide Plane.
-

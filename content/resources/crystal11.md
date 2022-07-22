@@ -6,6 +6,7 @@ file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: crystal11.pdf
 uid: 2b4bcc86-898f-b7d9-82bb-d83c47740575
 ---
 This file contains notes for the topic: Single Page Summary of Logic and Combination Theorems Used to Derive Space Groups.
-
