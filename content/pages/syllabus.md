@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section contains an overview and list of materials for
+  the course, grading criteria participation guidelines.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3cb12ba2-9772-11cd-9469-eba912c8bbd4
 ---
@@ -22,7 +26,7 @@ The only prerequisites for this course are familiarity with linear algebra and m
 Textbook
 --------
 
-There is no required textbook. Students are expected to read handouts as listed in the [readings]({{< baseurl >}}/pages/readings) section.
+There is no required textbook. Students are expected to read handouts as listed in the {{% resource_link 5c93f2b1-5536-7d91-878e-b2224ece1c30 "readings" %}} section.
 
 Grading
 -------
