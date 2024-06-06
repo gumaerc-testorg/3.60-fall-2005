@@ -2,6 +2,7 @@
 content_type: resource
 description: Problems on two dimensional plane group.
 file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/eda4fe1c8b929ca099688631a113b998_ps6.pdf
+file_size: 479527
 file_type: application/pdf
 learning_resource_types:
 - Assignments

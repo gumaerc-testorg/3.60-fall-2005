@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/32184e85c4349bcdc2939554d9e613e6_eCPASv7NaHk.pdf
+file_size: 86713
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

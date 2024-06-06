@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains notes for the topic: Derivation of the 32 Crystallographic
   Point Groups, or Crystal Classes.'
 file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/88728836c5f9fc0aac819a7ad1a0a904_crystal4.pdf
+file_size: 120544
 file_type: application/pdf
 learning_resource_types:
 - Readings
