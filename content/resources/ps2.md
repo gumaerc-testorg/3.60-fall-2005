@@ -2,6 +2,7 @@
 content_type: resource
 description: Problems about Nordic alphabet.
 file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/7ea4a9cde972973ccee01ef0a5f56be5_ps2.pdf
+file_size: 13260
 file_type: application/pdf
 learning_resource_types:
 - Assignments

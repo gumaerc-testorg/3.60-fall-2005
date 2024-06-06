@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains reading notes for Derivation of the Space Lattices.
 file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/b656f37b626baa9825261093e95c548a_crystal7.pdf
+file_size: 107499
 file_type: application/pdf
 learning_resource_types:
 - Readings

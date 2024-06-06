@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains notes for the topic: Derivative Structures.'
 file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/e604e04d520401ada56a5118ddab027b_crystal13.pdf
+file_size: 82386
 file_type: application/pdf
 learning_resource_types:
 - Readings

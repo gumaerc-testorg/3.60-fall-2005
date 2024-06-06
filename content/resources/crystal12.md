@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains summary notes on the crystalline state.
 file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/b063bc6f0e5c194b9f265c1c539dcdd7_crystal12.pdf
+file_size: 655727
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -2,6 +2,7 @@
 content_type: resource
 description: Problems on Gereral IQ.
 file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/085a9cf009765ee3d489242c778ac82d_ps3.pdf
+file_size: 19507
 file_type: application/pdf
 learning_resource_types:
 - Assignments
