@@ -2,6 +2,7 @@
 content_type: resource
 description: Problems on symmetry, rotational axis.
 file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/be1bfa7d952f497c3f04f388d7a3ed47_ps5.pdf
+file_size: 23661
 file_type: application/pdf
 learning_resource_types:
 - Assignments

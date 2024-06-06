@@ -2,6 +2,7 @@
 content_type: resource
 description: Problems on Millers indices, lattices and symmetry.
 file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/3fe6465e13f2bab992b5bf0f6fcc0f51_ps4.pdf
+file_size: 58873
 file_type: application/pdf
 learning_resource_types:
 - Assignments
