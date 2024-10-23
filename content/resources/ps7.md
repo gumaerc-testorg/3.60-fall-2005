@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problems on Euler's Construction, symmetry.
-file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/710436ba29c19c2c272ad8800cde4288_ps7.pdf
+file: /ol-ocw-studio-app/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/710436ba29c19c2c272ad8800cde4288_ps7.pdf
 file_size: 26526
 file_type: application/pdf
 learning_resource_types:
