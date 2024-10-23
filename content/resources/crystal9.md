@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains notes for the topic: Distribution of Lattice Types
   and Point Groups Among the Crystal Systems.'
-file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/ecfcd431218904cbd536f22f775c3789_crystal9.pdf
+file: /ol-ocw-studio-app/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/ecfcd431218904cbd536f22f775c3789_crystal9.pdf
 file_size: 60594
 file_type: application/pdf
 learning_resource_types:
