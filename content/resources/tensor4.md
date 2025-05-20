@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains notes for the topic: Stiffness vs. Temperature.'
-file: /ol-ocw-studio-app/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/b7f6031a2f9e8c2eaac04f4350033923_tensor4.pdf
+file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/b7f6031a2f9e8c2eaac04f4350033923_tensor4.pdf
 file_size: 455547
 file_type: application/pdf
 learning_resource_types:

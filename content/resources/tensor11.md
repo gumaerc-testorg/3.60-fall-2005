@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains reading notes for Tensor Properties of Crystals and
   Anisotropy.
-file: /ol-ocw-studio-app/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/f37962e9a0877e93e54036d5e22a5126_tensor11.pdf
+file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/f37962e9a0877e93e54036d5e22a5126_tensor11.pdf
 file_size: 465703
 file_type: application/pdf
 learning_resource_types:

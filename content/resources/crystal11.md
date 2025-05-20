@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains notes for the topic: Single Page Summary of Logic
   and Combination Theorems Used to Derive Space Groups.'
-file: /ol-ocw-studio-app/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/2b4bcc86898fb7d982bbd83c47740575_crystal11.pdf
+file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/2b4bcc86898fb7d982bbd83c47740575_crystal11.pdf
 file_size: 46711
 file_type: application/pdf
 learning_resource_types:

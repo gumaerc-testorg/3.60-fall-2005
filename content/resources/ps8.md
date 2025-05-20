@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem on different types of lattices and Pauling's rule.
-file: /ol-ocw-studio-app/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/89c51a128c6c5a4dc701e11efb6f85f5_ps8.pdf
+file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/89c51a128c6c5a4dc701e11efb6f85f5_ps8.pdf
 file_size: 68389
 file_type: application/pdf
 learning_resource_types:
