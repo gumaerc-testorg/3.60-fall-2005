@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains comprehensive notes for crystallography.
-file: /ol-ocw-studio-app/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/d075b9dd36eafe8ca108a99caa70f097_crystallography.pdf
+file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/d075b9dd36eafe8ca108a99caa70f097_crystallography.pdf
 file_size: 2302058
 file_type: application/pdf
 learning_resource_types:
