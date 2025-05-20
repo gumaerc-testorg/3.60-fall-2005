@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for stress and strain tensors.
-file: /ol-ocw-studio-app/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/7833362eb0e165d8b1c5a0a80fa27c61_tensor8.pdf
+file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/7833362eb0e165d8b1c5a0a80fa27c61_tensor8.pdf
 file_size: 270533
 file_type: application/pdf
 learning_resource_types:
