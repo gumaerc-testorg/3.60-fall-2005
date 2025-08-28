@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains comprehensive notes for tensors.
-file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/7b1730e4e26b971ffb654d26d17528a6_tensor.pdf
+file: /ol-ocw-studio-app/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/7b1730e4e26b971ffb654d26d17528a6_tensor.pdf
 file_size: 2455051
 file_type: application/pdf
 learning_resource_types:

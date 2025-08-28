@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem on properties of materials.
-file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/0d776b7df7822c3d620b787fe9d124d0_ps1.pdf
+file: /ol-ocw-studio-app/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/0d776b7df7822c3d620b787fe9d124d0_ps1.pdf
 file_size: 14628
 file_type: application/pdf
 learning_resource_types:
