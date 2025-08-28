@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/fe471a7e6cdf3ebc6285338fa60ea7fd_-HJE0OYHTH4.pdf
+file: /ol-ocw-studio-app/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/fe471a7e6cdf3ebc6285338fa60ea7fd_-HJE0OYHTH4.pdf
 file_size: 64623
 file_type: application/pdf
 learning_resource_types: []

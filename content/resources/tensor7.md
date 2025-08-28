@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains notes for the topic: Some Basic Relations in Electromagnetism.'
-file: /courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/126179084c90adb02e9bf86dd83d5c08_tensor7.pdf
+file: /ol-ocw-studio-app/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/126179084c90adb02e9bf86dd83d5c08_tensor7.pdf
 file_size: 516599
 file_type: application/pdf
 learning_resource_types:
