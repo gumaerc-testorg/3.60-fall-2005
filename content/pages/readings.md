@@ -18,7 +18,7 @@ Several readings are from the books:
 Crystallography Readings
 ------------------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262520485) Buerger, Martin J. [_Elementary Crystallography: An Introduction to the Fundamental Geometrical Features of Crystals_](https://mitpress.mit.edu/9780262520485). Cambridge, MA: MIT Press, 1978, chapters 1-9. ISBN: 9780262520485.
+{{% resource_link "31437ca6-25e0-49d3-97a8-de62a25dc507" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Buerger, Martin J. {{% resource_link "31437ca6-25e0-49d3-97a8-de62a25dc507" "_Elementary Crystallography: An Introduction to the Fundamental Geometrical Features of Crystals_" %}}. Cambridge, MA: MIT Press, 1978, chapters 1-9. ISBN: 9780262520485.
 
 Principles of Plane Group Derivation ({{% resource_link 8ac9c9c2-64d6-a0c4-bc46-7216f198ed66 "PDF" %}})
 
